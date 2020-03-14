@@ -1,5 +1,5 @@
 <?php
-define('APIKEY', 'AIzaSyB5zY2fq6YRSMxF7HwGb8rEQ8VVRxiO6ps');
+define('APIKEY', 'AIzaSyDwOSiNKKp14LYb2Pa0lnvklnv7sW-LFy0');
 define('GJ_CODE', 'US');
 define('SITE_NAME', 'utuby');
 define('TITLENAME', 'utuby');
