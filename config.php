@@ -1,6 +1,6 @@
 <?php
 define('APIKEY', 'AIzaSyDwOSiNKKp14LYb2Pa0lnvklnv7sW-LFy0');
-define('GJ_CODE', 'US');
+define('GJ_CODE', 'SG');
 define('SITE_NAME', 'utuby');
 define('TITLENAME', 'utuby');
 define('EN2DEKEY', '32123wwerwertgfdgds');
